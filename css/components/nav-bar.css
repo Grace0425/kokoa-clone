@@ -20,18 +20,9 @@
 }
 
 .nav_notification {
-  display: flex;
-  background-color: tomato;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  justify-content: center;
-  align-items: center;
   position: absolute;
   left: 15px;
   bottom: 15px;
-  color: white;
-  font-weight: 600;
 }
 
 .ellipsis_notification {
